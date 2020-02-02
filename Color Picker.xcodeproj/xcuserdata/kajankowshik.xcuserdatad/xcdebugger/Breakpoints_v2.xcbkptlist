@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9342E937-B5C4-46B0-AD5A-393F574E8A9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Color Picker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115 - ba19b10dc0a7f029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Color_Picker.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Color_Picker.ViewController"
+                  moduleName = "Color Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kajankowshik/Desktop/iOS/Color%20Picker/Color%20Picker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115 - bf370546af23d7d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Color_Picker.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Color_Picker.ViewController"
+                  moduleName = "Color Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kajankowshik/Desktop/iOS/Color%20Picker/Color%20Picker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "182">
+               </Location>
+               <Location
+                  uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115 - f5b53eed667d53a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Color_Picker.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Color_Picker.ViewController&gt;"
+                  moduleName = "Color Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kajankowshik/Desktop/iOS/Color%20Picker/Color%20Picker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115 - 22adb43f69dda673"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Color_Picker.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Color_Picker.ViewController&gt;"
+                  moduleName = "Color Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kajankowshik/Desktop/iOS/Color%20Picker/Color%20Picker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "554434E9-61E7-4C6C-8B29-3C1E61AA0115 - d87d7aa751b933b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Color_Picker.ViewController.__deallocating_deinit"
+                  moduleName = "Color Picker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kajankowshik/Desktop/iOS/Color%20Picker/Color%20Picker/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96BD50CE-D2FA-4581-B5FB-FAFBB3DE0CB0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Color Picker/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
